@@ -27,7 +27,7 @@ body {
 }
 
 .search.active {
-    width: 360px;
+    width: 460px;
 }
 
 .search .icon {
@@ -67,7 +67,7 @@ body {
 
 .search .input {
    position: relative; 
-   width: 300px;
+   width: 400px;
    height: 60px;
    left: 60px;
    display: flex;
